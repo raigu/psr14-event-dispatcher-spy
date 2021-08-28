@@ -8,6 +8,16 @@
             "name": "Rait Kapp"
         }
     ],
+    "autoload": {
+        "psr-4": {
+            "Raigu\\TestDouble\\Psr14\\": "src/"
+        }
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "Raigu\\TestDouble\\Psr14\\": "tests/"
+        }
+    },
     "require": {
         "php": "^7.4||8.0"
     }
