@@ -28,4 +28,13 @@ final class EventDispatcherSpyTest extends TestCase
         $sut->dispatch(new EventStub);
         $this->assertTrue($sut->dispatched(new EventStub));
     }
+
+    /**
+     * @test
+     */
+    public function detects_if_event_is_not_dispatched()
+    {
+        $sut = new EventDispatcherSpy();
+        $this->assertFalse($sut->dispatched(EventStub::class));
+    }
 }
