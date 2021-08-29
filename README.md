@@ -10,7 +10,8 @@ PSR-14 event dispatcher implementation for testing if the subject under test is 
 
 # Compatibility
 
-*PHP 7.4, ^8.0
+* PHP 7.4, ^8.0
+* psr/event-dispatcher==^1.0
 
 # Install
 
