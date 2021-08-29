@@ -1,4 +1,5 @@
 [![Latest Stable Version](http://poser.pugx.org/raigu/psr14-event-dispatcher-spy/v/stable)](https://packagist.org/packages/raigu/psr14-event-dispatcher-spy)
+[![Fallows SemVer](https://img.shields.io/badge/SemVer-2.0.0-green)](https://semver.org/spec/v2.0.0.html)
 [![build](https://github.com/raigu/psr14-event-dispatcher-spy/workflows/build/badge.svg)](https://github.com/raigu/psr14-event-dispatcher-spy/actions)
 [![codecov](https://codecov.io/gh/raigu/psr14-event-dispatcher-spy/branch/main/graph/badge.svg?token=VWV2RR9B6R)](https://codecov.io/gh/raigu/psr14-event-dispatcher-spy)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
